@@ -1,2 +1,2 @@
 # IKS
-using phython for data manupulation 
+using python for data manupulation 
