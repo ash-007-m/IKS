@@ -9,7 +9,7 @@ from datetime import datetime
 date_column = 1  # Specify the column number where the dates are located
 start_row = 2  # Specify the starting row for dates (e.g., 2 for skipping the header row)
 
-wb = load_workbook('test_20.03_77.23.xlsx')
+wb = load_workbook('converted_one_2.xlsx')
 ws = wb.active
 for row in range(start_row, ws.max_row + 1):
     date_string = ws[get_column_letter(date_column) + str(row)].value
@@ -42,4 +42,4 @@ for row in range(start_row, ws.max_row + 1):
     ws[get_column_letter(10)+ str(row)]  = julian_date_string
     
 
-wb.save('test_20.03_77.23.xlsx')
+wb.save('converted_one_2.xlsx')

@@ -1,0 +1,109 @@
+{
+  "inputDate": "01/02/1980",
+  "day": "Wednesday",
+  "sunrise": "11:29:56",
+  "sunset": "23:37:31",
+  "moonrise": "23:52:17",
+  "moonset": "11:25:18",
+  "vedic_sunrise": "11:33:38",
+  "vedic_sunset": "23:33:50",
+  "tithi": {
+    "details": {
+      "tithi_number": 15,
+      "tithi_name": "Purnima",
+      "special": "Poorna",
+      "summary": "Inauspicious for any work except performing religious ceremonies charity, performing rites for the departed and worship.",
+      "deity": "Viswadevas"
+    },
+    "end_time": {
+      "hour": 14,
+      "minute": 33,
+      "second": 52
+    },
+    "end_time_ms": 315651832000
+  },
+  "nakshatra": {
+    "details": {
+      "nak_number": 6,
+      "nak_name": "Ardra",
+      "ruler": "Rahu",
+      "deity": "Rudra",
+      "special": "Udharvamukh Nakshatra",
+      "summary": "Fight with the enemies,activities with poison, fire.It is of a dreadful nature and is suitable for success in warfare, separations, acts of destruction, and the breaking of alliances with superiors. Avoid journeys and shopping."
+    },
+    "end_time": {
+      "hour": 19,
+      "minute": 9,
+      "second": 57
+    },
+    "end_time_ms": 315668398000
+  },
+  "yog": {
+    "details": {
+      "yog_number": 25,
+      "yog_name": "Brahma",
+      "special": "Auspicious yoga,Good for all Auspicious Deeds.",
+      "meaning": "(Priest, God) — trustworthy and confidential, ambitious, good discernment and judgment."
+    },
+    "end_time": {
+      "hour": 11,
+      "minute": 31,
+      "second": 13
+    },
+    "end_time_ms": 315640873000
+  },
+  "karan": {
+    "details": {
+      "karan_number": 8,
+      "karan_name": "Vishti",
+      "special": "It is also called Bhadra .It is held to be a very inauspicious Karana for performance of any important work. Work started in this Karana may have little success. Vishti is also known as Bhadra.",
+      "deity": "Deth or Mrityu"
+    },
+    "end_time": {
+      "hour": 2,
+      "minute": 28,
+      "second": 39
+    },
+    "end_time_ms": 315608319000
+  },
+  "hindu_maah": {
+    "adhik_status": false,
+    "purnimanta": "Pausha",
+    "amanta": "Pausha",
+    "amanta_id": 10,
+    "purnimanta_id": 10
+  },
+  "paksha": "Shukla-Paksha",
+  "ritu": "Hemant",
+  "sun_sign": "Sagittarius",
+  "moon_sign": "Gemini",
+  "ayana": "Dakshinayana",
+  "panchang_yog": "",
+  "vikram_samvat": 2036,
+  "shaka_samvat": 1901,
+  "vkram_samvat_name": "Angira",
+  "shaka_samvat_name": "Siddharth",
+  "disha_shool": "NORTH",
+  "disha_shool_remedies": "-",
+  "nak_shool": {
+    "direction": "none",
+    "remedies": "-"
+  },
+  "moon_nivas": "WEST",
+  "abhijit_muhurta": {
+    "start": "17:09",
+    "end": "17:57"
+  },
+  "rahukaal": {
+    "start": "17:33:43",
+    "end": "19:04:40"
+  },
+  "guliKaal": {
+    "start": "16:02:47",
+    "end": "17:33:43"
+  },
+  "yamghant_kaal": {
+    "start": "13:00:53",
+    "end": "14:31:50"
+  }
+}
